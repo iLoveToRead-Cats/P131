@@ -1,0 +1,16 @@
+h1 {
+    color: white;
+}
+
+.button_home {
+    font-size: 20px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: white;
+    background-color: black;
+    color: white;
+}
+
+#status {
+    margin-top: -25px;
+}
